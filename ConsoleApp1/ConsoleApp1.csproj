@@ -43,11 +43,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="alphabet.cs" />
+    <Compile Include="CamelStyle.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
+    <Compile Include="FIbonachi.cs" />
+    <Compile Include="FindEvenorODIQ.cs" />
+    <Compile Include="GoodOrEvil.cs" />
+    <Compile Include="Interview.cs" />
+    <Compile Include="PhoneNumber.cs" />
+    <Compile Include="SmallestNumber.cs" />
+    <Compile Include="SmileFaces.cs" />
+    <Compile Include="SudokuCheck.cs" />
+    <Compile Include="WestWest.cs" />
     <Compile Include="money.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sWeight.cs" />
     <Compile Include="Task5.cs" />
   </ItemGroup>
   <ItemGroup>
